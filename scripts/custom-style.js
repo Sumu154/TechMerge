@@ -21,7 +21,11 @@ tailwind.config = {
 
         backgroundImage: {
           'bginput': "url('assets/image/bg.jpg')",
-        }
+        },
+
+        textShadow: {
+          'custom': '0px 4px 4px rgba(0, 0, 0, 0.25)',
+        },
       }
     }
   }

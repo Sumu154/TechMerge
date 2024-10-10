@@ -18,6 +18,7 @@ tailwind.config = {
           orange: '#FA7635',
           bordercolor: 'rgba(17, 17, 17, 0.30)',
           ash: '#E0E0E0',
+          red: '#FF0404',
         },
 
         backgroundImage: {
